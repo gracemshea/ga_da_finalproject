@@ -5,7 +5,7 @@ This project, which performs a ranking for the best American cities for outdoors
 
 From data collection to the final product, I utilized Excel to clean and format the raw data, SQL to load, organize and transform it within Postgres, and Tableau to analyze the data and enable user input for an individualized final ranking of locations. 
 
-### Excel: Data Cleaning Process, Pivot Tables, VLOOKUP, etc.
+### Excel: Data Cleaning Process, Pivot Tables & VLOOKUP
 
 TBD
 
