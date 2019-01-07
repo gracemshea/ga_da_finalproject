@@ -1,4 +1,4 @@
-### Best Places for Outdoor Enthusiasts
+##### Best Places for Outdoor Enthusiasts
 
 This project, which performs a ranking for the best American cities for outdoors enthusiasts, showcases my SQL skills using a combination of [data sources](https://github.com/gracemshea/ga_da_finalproject/blob/master/datasources). These files consist of Zillow's Home Value Index, U.S. city population estimates, NOAA's registered recreational fishing catches for 2017, as well as the locations of city bike lanes, campgrounds, climbing routes, and ski resorts across the United States.
 
