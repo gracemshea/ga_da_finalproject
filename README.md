@@ -1,12 +1,32 @@
-# ga_da_finalproject
-Grace Shea's Final Project Repo for DA class @ GA
+This is a project to showcase my SQL skills using a combination of data sources.
+## Engine_training_data: [Data Files](https://github.com/gracemshea/ga_da_finalproject/blob/master/datasources) 
+These files demonstrate analysis of data from a NASA study of turbofan engine failures. This is a front to back evaluation of the data beginning by using SQL to extract data, excel to clean data, and analyizing data in Tableau. Finally, two outputs are provided. The first is a predictive formula that attempts to provide an estimate of cycles remaining and the second is a real time assesment of the engines current health using visualizations all in Tableau. 
 
-This project to showcase SQL, Excel, and Tableau skills using a combination of public data from Zillow and the City of Seattle. 
 
-This README is in progress. Topics being explored with SQL queries and pivot tables are the following:
+## SQL Import and Data Files:
+1. [Loading in Data](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/Import_engine_data.txt)
+2. [CSV file for SQL Upload](https://github.com/fischtank44/Engine_training_data/blob/master/train_FD001-variation%20formulas.csv)
 
-1. Rent prices and home sales in the Seattle area compared to other major metropolitan cities with land restrictions due to water (2010-2018). This may just mean New York City, but we'll see.
-2. Forecast future rent prices and home sales in the Seattle area. See if there is any way to forecast economic development southward towards Tacoma.
-3. Build additional visualizations to demonstrate changing industry landscape within Seattle as well as changes in population demographics.
+## SQL Queries: [SQL Files](https://github.com/fischtank44/Engine_training_data/tree/master/SQL_FILES) <-- Click here for details.
+3. [SUM, AVG, SUBQUERY, ORDER BY and GROUP BY](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/SQL_sample_STD_DEV.sql)
+4. [ALTER TABLE](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/SQL_alter_table.txt)
+5. [CASE](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/CASE_find_last_10.sql)
+6. [WHERE and HAVING](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/SQL_WHERE_HAVING.sql)
+7. [JOIN](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/SQL_JOIN_rul_test_fd01.sql)
+8. [UNION](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/SQL_union_test_rul.sql)
 
-If I could answer one question it would be what Tacoma will be like in 10 years time.
+
+## Excel Data: [Excel Data](https://github.com/fischtank44/Engine_training_data/tree/master/Excel_data) <-- Click here for details.
+
+* [LOOKUP](https://github.com/fischtank44/Engine_training_data/raw/master/Excel_data/test_FD001_headers_var_v4.xlsx) 
+* [Pivot table](https://github.com/fischtank44/Engine_training_data/raw/master/Excel_data/train_FD001-variation%20formulas_v4.xlsx) 
+
+## Visualizations: Links go to Tableau Public Page
+* [Correlation Checker](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-correlationonly/CorrelationChecker)
+* [Training Data Visualizations](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v1_7wBPR/Playbyplayforward)
+* [Test Data Visualizations](https://public.tableau.com/profile/steven.fischbach#!/vizhome/FinalProject-testofthetestdata/BigFormulaTestSheet)
+
+
+
+
+## Notes:
