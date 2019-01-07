@@ -1,5 +1,5 @@
-This is a project to showcase my SQL skills using a combination of data sources.
-## Engine_training_data: [Data Files](https://github.com/gracemshea/ga_da_finalproject/blob/master/datasources) 
+This is a project to showcase my SQL skills using a combination of [data sources](https://github.com/gracemshea/ga_da_finalproject/blob/master/datasources).
+
 These files demonstrate analysis of data from a NASA study of turbofan engine failures. This is a front to back evaluation of the data beginning by using SQL to extract data, excel to clean data, and analyizing data in Tableau. Finally, two outputs are provided. The first is a predictive formula that attempts to provide an estimate of cycles remaining and the second is a real time assesment of the engines current health using visualizations all in Tableau. 
 
 
