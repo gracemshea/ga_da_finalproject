@@ -1,7 +1,7 @@
-#Raw Data Sources:
+# Raw Data Sources:
 
 [Population](https://www.census.gov/data/tables/2017/demo/popest/total-cities-and-towns.html#ds)
-[Zillow Home Value Index (by City)] https://www.zillow.com/research/data/
+[Zillow Home Value Index (by City)](https://www.zillow.com/research/data/)
 [Campgrounds] http://www.uscampgrounds.info/takeit.html Download Files:
 [Recreational Fishing] https://www.st.nmfs.noaa.gov/recreational-fisheries/data-and-documentation/queries/index 
 [Climbing Routes (Limited to those with ratings of 3 or higher)] https://www.mountainproject.com/route-finder?selectedIds=0&type=rock&diffMinrock=800&diffMinboulder=20000&diffMinaid=70000&diffMinice=30000&diffMinmixed=50000&diffMaxrock=12400&diffMaxboulder=21400&diffMaxaid=75260&diffMaxice=38500&diffMaxmixed=60000&is_trad_climb=1&is_sport_climb=1&is_top_rope=1&stars=3.8&pitches=0&sort1=popularity+desc&sort2=rating
