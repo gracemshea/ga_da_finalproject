@@ -4,8 +4,8 @@
 1. [Introduction](#introduction)
 2. [Excel](#excel)
    + [Pivot Tables](#pivot-tables)
-   + [VLOOKUP]
-   + [Index & Match]
+   + [VLOOKUP](#vlookup)
+   + [Index & Match](#index-&-match)
 3. [SQL](#SQL)
 4. [Tableau](#tableau)
 
