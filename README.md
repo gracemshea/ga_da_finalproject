@@ -31,7 +31,7 @@ When cleaning the datasets, I eliminated columns of data unnecessary to my proje
  
  + Example 2: The camping data referred to the campsite type with a code. I found these codes on the main campground info website, and created a second tab in Excel with the codes and corresponding meanings. By using VLOOKUP, I integrated the campground types into the dataset. See [here](https://github.com/gracemshea/ga_da_finalproject/blob/master/datafiles/Data%20Cleaning%20VLOOKUP%202.xls).
  
- ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors3.jpeg) "Outdoors Image 3"
+ ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors4.jpeg) "Outdoors Image 3"
 
 
 ## SQL: Data Loading & Command Examples
