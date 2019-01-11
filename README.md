@@ -35,7 +35,7 @@ When cleaning the datasets, I eliminated columns of data unnecessary to my proje
  
  #### Index & Match
 
-+TBD
++ TBD
  
  ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors4.jpeg) "Outdoors Image 3"
  
