@@ -46,5 +46,9 @@ TBD
 
 TBD
 
-# *Thank you!*
+# Thank you!
+### I appreciate any suggestions to further improve this project. 
+
+# *“Afoot and lighthearted I take to the open road, healthy, free, the world before me.” –Walt Whitman*
+
 ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors7.jpeg) "Outdoors Image 5"
