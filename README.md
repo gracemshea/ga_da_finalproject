@@ -38,7 +38,7 @@ When cleaning the datasets, I eliminated columns of data unnecessary to my proje
 
 TBD
 
- ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors6.jpeg) "Outdoors Image 4"
+ ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors6.jpg) "Outdoors Image 4"
 
 ## Tableau: Key Features & Visualization
 
