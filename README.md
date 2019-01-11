@@ -49,8 +49,12 @@ TBD
 ## Tableau: Key Features & Visualization
 
 Design Principles: TBD
+
 Sketching: TBD
 
+Key Feature: User-Driven
+
+Calculated Fields
 
 ### This concludes my project. I appreciate any suggestions to further improve. 
 
