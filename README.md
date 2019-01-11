@@ -1,6 +1,6 @@
 # Best Places for Outdoor Enthusiasts
  
-![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors1.jpeg) "Outdoors Image 1"
+![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors1.jpeg)"Outdoors Image 1"
 
 # *“Keep close to Nature’s heart… and break clear away, once in a while, and climb a mountain or spend a week in the woods. Wash your spirit clean.” –John Muir*
 
