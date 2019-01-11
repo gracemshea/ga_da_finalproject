@@ -3,9 +3,9 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Excel](#excel)
-  + [Pivot Tables](#pivot-tables)
-+ [VLOOKUP]
-+ [Index & Match]
+   + [Pivot Tables](#pivot-tables)
+   + [VLOOKUP]
+   + [Index & Match]
 3. [SQL](#SQL)
 4. [Tableau](#tableau)
 
