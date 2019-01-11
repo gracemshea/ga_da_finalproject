@@ -46,8 +46,8 @@ TBD
 
 TBD
 
-# Thank you!
-### I appreciate any suggestions to further improve this project. 
+### This concludes my project. I appreciate any suggestions to further improve. 
+
 
 # *“Afoot and lighthearted I take to the open road, healthy, free, the world before me.” –Walt Whitman*
 
