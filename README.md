@@ -48,7 +48,9 @@ TBD
 
 ## Tableau: Key Features & Visualization
 
-TBD
+Design Principles: TBD
+Sketching: TBD
+
 
 ### This concludes my project. I appreciate any suggestions to further improve. 
 
