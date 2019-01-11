@@ -1,5 +1,11 @@
 # Best Places for Outdoor Enthusiasts
  
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Excel: Data Exploration & Cleaning Process, Pivot Tables & VLOOKUP](#Excel-:-Data-Exploration-&-Cleaning-Process-,-Pivot-Tables-&-VLOOKUP)
+3. SQL: Data Loading & Command Examples
+4. Tableau: Key Features & Visualization
+
 ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors1.jpeg)"Outdoors Image 1"
 
 # *“Keep close to Nature’s heart… and break clear away, once in a while, and climb a mountain or spend a week in the woods. Wash your spirit clean.” –John Muir*
