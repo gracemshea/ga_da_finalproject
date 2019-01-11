@@ -14,6 +14,8 @@ When making sense of potential data sources, Pivot Tables proved enormously usef
 
 + Example 1: When exploring the directory of ski resorts, which I'd narrowed down to the US only, I was interested in how altitude filtered the states apart. By creating a quick pivot table, I was able to select the altitude values of 3000+ and see which states had resorts (and how many) within that range of altitudes. See pivot table [here](https://github.com/gracemshea/ga_da_finalproject/blob/master/datafiles/Data%20Exploration%20Pivot%20Table%201.xls).
 
++ Example 2: The Zillow Home Value Index (ZHVI) is an important piece of data in understanding home values across a state, or county. I wanted to see, based on Zillow's data from 2018, which state's average ZHVI values were highest. See pivot table[here](https://github.com/gracemshea/ga_da_finalproject/blob/master/datafiles/Data%20Exploration%20Pivot%20Table%202.xls).
+
 ### Data Cleaning Process
 
 When cleaning the datasets, I eliminated columns of data unnecessary to my project. For example, in the fish catch dataset, there were many columns that were not important to my question; Where were people catching fish recreationally in the U.S. and what were the catch totals? However, not all data cleaning comes from **elimination**, but rather **adding** columns to make the data easier to understand.
