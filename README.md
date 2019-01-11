@@ -44,5 +44,5 @@ TBD
 
 TBD
 
-#*Thank you!*
+# *Thank you!*
 ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors7.jpeg) "Outdoors Image 5"
