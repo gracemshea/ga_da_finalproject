@@ -7,11 +7,11 @@ From data collection to the final product, I utilized Excel to clean and format 
 
 ## Excel: Data Cleaning Process, Pivot Tables & VLOOKUP
 
-###Data Cleaning Process
+### Data Cleaning Process
 
 When cleaning the datasets, I eliminated columns of data unnecessary to my project. For example, in the fish catch dataset, there were many columns that were not important to my question; Where were people catching fish recreationally in the U.S. and what were the catch totals? However, not all data cleaning comes from **elimination**, but rather **adding** columns to make the data easier to understand.
 
-+VLOOKUP
++ VLOOKUP
 
 
 ## SQL: Data Loading & Command Examples
