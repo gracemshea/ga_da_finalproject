@@ -2,9 +2,9 @@
  
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Excel: Data Exploration & Cleaning Process, Pivot Tables & VLOOKUP](#Excel-:-Data-Exploration-&-Cleaning-Process-,-Pivot-Tables-&-VLOOKUP)
-3. SQL: Data Loading & Command Examples
-4. Tableau: Key Features & Visualization
+2. [Excel](#excel)
+3. [SQL](#SQL)
+4. [Tableau](#tableau)
 
 ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors1.jpeg)"Outdoors Image 1"
 
@@ -18,7 +18,7 @@ From data collection to the final product, I utilized Excel to explore, clean an
  
 ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors2.jpeg) "Outdoors Image 2"
 
-## Excel: Data Exploration & Cleaning Process, Pivot Tables & VLOOKUP
+## Excel
 
 ### Data Exploration Process
 When making sense of potential data sources, Pivot Tables proved enormously useful in understanding the data quickly.
@@ -46,13 +46,15 @@ When cleaning the datasets, I eliminated columns of data unnecessary to my proje
  ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors4.jpeg) "Outdoors Image 3"
  
 
-## SQL: Data Loading & Command Examples
+## SQL
 
-TBD
+Data Loading & Command Examples TBD
 
  ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors6.jpg) "Outdoors Image 4"
 
-## Tableau: Key Features & Visualization
+## Tableau
+
+Key Features & Visualization
 
 Design Principles: TBD
 
