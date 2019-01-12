@@ -9,6 +9,40 @@
 3. [SQL](#SQL)
    + [Data Loading](#data-loading)
    + [SQL Commands](#SQL-commands)
+      * ALTER TABLE
+      * AND
+      * AS
+      * AVG()
+      * BETWEEN
+      * CASE
+      * COUNT()
+      * CREATE TABLE
+      * DELETE
+      * FULL JOIN
+      * GROUP BY
+      * HAVING
+      * INNER JOIN
+      * INSERT
+      * IS NULL/IS NOT NULL
+      * LEFT JOIN
+      * LIKE
+      * LIMIT
+      * MAX()
+      * MIN()
+      * OR
+      * ORDER BY
+      * OUTER JOIN
+      * RIGHT JOIN
+      * ROUND()
+      * SELECT
+      * SELECT DISTINCT
+      * SUBQUERY
+      * SUM()
+      * UNION
+      * UNION ALL
+      * UPDATE
+      * WHERE
+      * WITH
 4. [Tableau](#tableau)
 
 ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors1.jpeg)"Outdoors Image 1"
@@ -74,6 +108,7 @@ Ultimately, I found that having the information embedded in the code, using the 
 * COUNT()
 * CREATE TABLE
 * DELETE
+* FULL JOIN
 * GROUP BY
 * HAVING
 * INNER JOIN
@@ -91,7 +126,10 @@ Ultimately, I found that having the information embedded in the code, using the 
 * ROUND()
 * SELECT
 * SELECT DISTINCT
+* SUBQUERY
 * SUM()
+* UNION
+* UNION ALL
 * UPDATE
 * WHERE
 * WITH
