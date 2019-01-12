@@ -55,7 +55,7 @@ When cleaning the datasets, I eliminated columns of data unnecessary to my proje
 
 There are 3 methods I explored for loading data into pgAdmin & Postgres:
 
-1. [Copy File Path[()
+1. [Copy File Path]()
 2. [Temp Table]()
 3. [CSV to SQL Converter]()
 
