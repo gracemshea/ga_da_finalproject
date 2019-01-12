@@ -63,14 +63,14 @@ There are 3 methods I explored for loading data into pgAdmin & Postgres:
 
 Ultimately, I found that having the information embedded in the code, using the third method, resolved my permission issues. You can find all the SQL data-loading files [here](https://github.com/gracemshea/ga_da_finalproject/tree/master/sqlfiles/load).
 
-### SQL Commands
+### SQL Commands & Operators
 
-A wide variety of SQL statements were utilized throughout this project. Click each command to navigate to an example.
+A wide variety of SQL statements were utilized throughout this project. Click each command or operator to navigate to an example.
 
 * [ALTER TABLE]() allows you to add columns to a table in the database.
 * [AND]() combines two conditions.
 * [AS]() establishes an alias for a value, essentially renaming it.
-* [AVG()]() find the average value for a column. This is an aggregate function.
+* [AVG()]() finds the average value for a column. This is an aggregate function.
 * [BETWEEN]() restricts the output to a specific range.
 * [CASE]() allows to narrow the SELECT to conditional IF/THEN logic.
 * [COUNT()]() provides a count of rows where the value is not NULL.
@@ -83,11 +83,11 @@ A wide variety of SQL statements were utilized throughout this project. Click ea
 * [INSERT]() adds new rows to a table.
 * [IS NULL]()/[IS NOT NULL]() operates like "WHERE", to filter for empty cells.
 * [LEFT JOIN]() returns all records from the left table and the matched records from the right table.
-* [LIKE]() 
-* [LIMIT]()
-* [MAX()]()
-* [MIN()]()
-* [OR]()
+* [LIKE]() used in a WHERE clause to search for a specified pattern in a column.
+* [LIMIT]() limits the number of records.
+* [MAX()]()function returns the largest value of the selected column.
+* [MIN()]() function returns the smallest value of the selected column.
+* [OR]() displays a record if any of the conditions provided are met.
 * [ORDER BY]()
 * [OUTER JOIN]()
 * [RIGHT JOIN]() returns all records from the righ table and the matched records from the left table.
