@@ -65,15 +65,15 @@ Ultimately, I found that having the information embedded in the code, using the 
 
 ### SQL Commands
 
-* ALTER TABLE
-* AND
-* AS
-* AVG()
-* BETWEEN
-* CASE
-* COUNT()
-* CREATE TABLE
-* DELETE
+* ALTER TABLE allows you to add columns to a table in the database.
+* AND combines two conditions.
+* AS establishes an alias for a value, essentially renaming it.
+* AVG() find the average value for a column. This is an aggregate function.
+* BETWEEN restricts the output to a specific range.
+* CASE allows to narrow the SELECT to conditional IF/THEN logic.
+* COUNT() provides a count of rows where the value is not NULL.
+* CREATE TABLE establishes a new table within a schema.
+* DELETE removes rows from a table.
 * FULL JOIN
 * GROUP BY
 * HAVING
