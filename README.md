@@ -51,7 +51,14 @@ When cleaning the datasets, I eliminated columns of data unnecessary to my proje
 
 ## SQL
 
-Data Loading & Command Examples TBD
+### Data Loading
+
+There are 3 methods I explored for loading data into pgAdmin & Postgres:
+
+1. [Copy File Path[()
+2. [Temp Table]()
+3. [CSV to SQL Converter]()
+
 
  ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors6.jpg) "Outdoors Image 4"
 
