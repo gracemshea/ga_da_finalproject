@@ -85,8 +85,8 @@ A wide variety of SQL statements were utilized throughout this project. Click ea
 * [LEFT JOIN]() returns all records from the left table and the matched records from the right table.
 * [LIKE]() used in a WHERE clause to search for a specified pattern in a column.
 * [LIMIT]() limits the number of records.
-* [MAX()]()function returns the largest value of the selected column.
-* [MIN()]() function returns the smallest value of the selected column.
+* [MAX()]() returns the largest value of the selected column.
+* [MIN()]() returns the smallest value of the selected column.
 * [OR]() displays a record if any of the conditions provided are met.
 * [ORDER BY]() used to sort the results, paired with a column for an ascending (ASC) or descending (DESC) order.
 * [OUTER JOIN]() returns unmatched rows in one or both tables.
@@ -96,8 +96,8 @@ A wide variety of SQL statements were utilized throughout this project. Click ea
 * [SELECT DISTINCT]() returns distinct values only. In other words, it filters out duplicates.
 * [SUBQUERY]() allows one to nest a query inside another query.
 * [SUM()]() returns the total sum of a numeric column.
-* [UNION]() combines the results of two or more SELECT statements.
-* [UNION ALL]()
+* [UNION]() combines the results of two or more SELECT statements. It removes duplicate rows.
+* [UNION ALL]() combines the results of two or more SELECT statements. It keeps duplicate rows.
 * [UPDATE]()
 * [WHERE]()
 * [WITH]()
