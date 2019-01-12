@@ -72,25 +72,25 @@ A wide variety of SQL statements were utilized throughout this project. Click ea
 * [AS]() establishes an alias for a value, essentially renaming it.
 * [AVG()]() find the average value for a column. This is an aggregate function.
 * [BETWEEN]() restricts the output to a specific range.
-* [CASE]()allows to narrow the SELECT to conditional IF/THEN logic.
+* [CASE]() allows to narrow the SELECT to conditional IF/THEN logic.
 * [COUNT()]() provides a count of rows where the value is not NULL.
 * [CREATE TABLE]() establishes a new table within a schema.
 * [DELETE]() removes rows from a table.
-* [FULL JOIN]()
-* [GROUP BY]()
-* [HAVING]()
-* [INNER JOIN]()
-* [INSERT]()
-* [IS NULL]()/[IS NOT NULL]()
-* [LEFT JOIN]()
-* [LIKE]()
+* [FULL JOIN]() returns all records when there is a match in either left or right tables.
+* [GROUP BY]() arranges returned data within aggregate functions into groups.
+* [HAVING]() operates like "WHERE" within aggregate functions.
+* [INNER JOIN]() combines rows from different tables where the join condition is true.
+* [INSERT]() adds new rows to a table.
+* [IS NULL]()/[IS NOT NULL]() operates like "WHERE", to filter for empty cells.
+* [LEFT JOIN]() returns all records from the left table and the matched records from the right table.
+* [LIKE]() 
 * [LIMIT]()
 * [MAX()]()
 * [MIN()]()
 * [OR]()
 * [ORDER BY]()
 * [OUTER JOIN]()
-* [RIGHT JOIN]()
+* [RIGHT JOIN]() returns all records from the righ table and the matched records from the left table.
 * [ROUND()]()
 * [SELECT]()
 * [SELECT DISTINCT]()
