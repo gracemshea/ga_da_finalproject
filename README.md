@@ -7,6 +7,8 @@
    + [VLOOKUP](#vlookup)
    + [Index & Match](#index-&-match)
 3. [SQL](#SQL)
+   + [Data Loading](#data-loading)
+   + [SQL Commands](#SQL-commands)
 4. [Tableau](#tableau)
 
 ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors1.jpeg)"Outdoors Image 1"
