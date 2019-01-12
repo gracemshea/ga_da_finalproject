@@ -88,15 +88,15 @@ A wide variety of SQL statements were utilized throughout this project. Click ea
 * [MAX()]()function returns the largest value of the selected column.
 * [MIN()]() function returns the smallest value of the selected column.
 * [OR]() displays a record if any of the conditions provided are met.
-* [ORDER BY]()
-* [OUTER JOIN]()
-* [RIGHT JOIN]() returns all records from the righ table and the matched records from the left table.
-* [ROUND()]()
-* [SELECT]()
-* [SELECT DISTINCT]()
-* [SUBQUERY]()
-* [SUM()]()
-* [UNION]()
+* [ORDER BY]() used to sort the results, paired with a column for an ascending (ASC) or descending (DESC) order.
+* [OUTER JOIN]() returns unmatched rows in one or both tables.
+* [RIGHT JOIN]() returns all records from the right table and the matched records from the left table.
+* [ROUND()]() returns a numeric value to a specific length. 
+* [SELECT]() identifies data to query from a database.
+* [SELECT DISTINCT]() returns distinct values only. In other words, it filters out duplicates.
+* [SUBQUERY]() allows one to nest a query inside another query.
+* [SUM()]() returns the total sum of a numeric column.
+* [UNION]() combines the results of two or more SELECT statements.
 * [UNION ALL]()
 * [UPDATE]()
 * [WHERE]()
