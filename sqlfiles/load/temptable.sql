@@ -1,3 +1,5 @@
+--Demonstrate the temp table data-loading method for one slice of my data, population.
+
 BEGIN;
 
 CREATE SCHEMA IF NOT EXISTS outdoors;
