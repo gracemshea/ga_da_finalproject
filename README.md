@@ -65,6 +65,8 @@ Ultimately, I found that having the information embedded in the code, using the 
 
 ### SQL Commands
 
+A wide variety of SQL statements were utilized throughout this project. CLick each command to navigate to an example.
+
 * [ALTER TABLE]() allows you to add columns to a table in the database.
 * [AND]() combines two conditions.
 * [AS]() establishes an alias for a value, essentially renaming it.
