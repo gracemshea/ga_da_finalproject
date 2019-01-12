@@ -65,6 +65,37 @@ Ultimately, I found that having the information embedded in the code, using the 
 
 ### SQL Commands
 
+* ALTER TABLE
+* AND
+* AS
+* AVG()
+* BETWEEN
+* CASE
+* COUNT()
+* CREATE TABLE
+* DELETE
+* GROUP BY
+* HAVING
+* INNER JOIN
+* INSERT
+* IS NULL/IS NOT NULL
+* LEFT JOIN
+* LIKE
+* LIMIT
+* MAX()
+* MIN()
+* OR
+* ORDER BY
+* OUTER JOIN
+* RIGHT JOIN
+* ROUND()
+* SELECT
+* SELECT DISTINCT
+* SUM()
+* UPDATE
+* WHERE
+* WITH
+
  ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors6.jpg) "Outdoors Image 4"
 
 ## Tableau
