@@ -72,7 +72,7 @@ A wide variety of SQL statements were utilized throughout this project. Click ea
 * [AS]() establishes an alias for a value, essentially renaming it.
 * [AVG()]() find the average value for a column. This is an aggregate function.
 * [BETWEEN]() restricts the output to a specific range.
-* [CASE]()]() allows to narrow the SELECT to conditional IF/THEN logic.
+* [CASE]()allows to narrow the SELECT to conditional IF/THEN logic.
 * [COUNT()]() provides a count of rows where the value is not NULL.
 * [CREATE TABLE]() establishes a new table within a schema.
 * [DELETE]() removes rows from a table.
