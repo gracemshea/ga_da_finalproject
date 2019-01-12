@@ -98,9 +98,9 @@ A wide variety of SQL statements were utilized throughout this project. Click ea
 * [SUM()]() returns the total sum of a numeric column.
 * [UNION]() combines the results of two or more SELECT statements. It removes duplicate rows.
 * [UNION ALL]() combines the results of two or more SELECT statements. It keeps duplicate rows.
-* [UPDATE]()
-* [WHERE]()
-* [WITH]()
+* [UPDATE]() modifies records in a database.
+* [WHERE]() returns records that meet a specified condition.
+* [WITH]() allows for the storing of a query result in a temporary table using an alias.
 
  ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors6.jpg)
 
