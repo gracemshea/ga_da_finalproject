@@ -11,7 +11,7 @@
    + [SQL Commands](#SQL-commands)
 4. [Tableau](#tableau)
 
-![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors1.jpeg)"Outdoors Image 1"
+![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors1.jpeg)
 
 # *“Keep close to Nature’s heart… and break clear away, once in a while, and climb a mountain or spend a week in the woods. Wash your spirit clean.” –John Muir*
 
@@ -21,7 +21,7 @@ This project, which performs a ranking of the best American cities for outdoors 
 From data collection to the final product, I utilized Excel to explore, clean and format the raw data, SQL to load, organize and transform it within Postgres, and Tableau to analyze the data and enable user input for an individualized final ranking of locations. 
 
  
-![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors2.jpeg) "Outdoors Image 2"
+![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors2.jpeg)
 
 ## Excel
 
@@ -48,7 +48,7 @@ When cleaning the datasets, I eliminated columns of data unnecessary to my proje
 
 + TBD
  
- ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors4.jpeg) "Outdoors Image 3"
+ ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors4.jpeg)
  
 
 ## SQL
@@ -100,7 +100,7 @@ Ultimately, I found that having the information embedded in the code, using the 
 * WHERE
 * WITH
 
- ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors6.jpg) "Outdoors Image 4"
+ ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors6.jpg)
 
 ## Tableau
 
@@ -119,4 +119,4 @@ Calculated Fields
 
 # *“Afoot and lighthearted I take to the open road, healthy, free, the world before me.” –Walt Whitman*
 
-![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors7.jpeg) "Outdoors Image 5"
+![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors7.jpeg)
