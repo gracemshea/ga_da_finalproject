@@ -106,6 +106,8 @@ A wide variety of SQL statements were utilized throughout this project. Click ea
 
 ## Tableau
 
+Please visit Tablea Public [here](https://public.tableau.com/profile/grace.shea#!/vizhome/OutdoorsMap/Dashboard1?publish=yes) to view my data visualization.
+
 Key Features & Visualization
 
 Design Principles: TBD
