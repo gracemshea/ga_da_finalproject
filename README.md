@@ -108,18 +108,9 @@ A wide variety of SQL statements were utilized throughout this project. Click ea
 
 Please visit Tablea Public [here](https://public.tableau.com/profile/grace.shea#!/vizhome/OutdoorsMap/Dashboard1?publish=yes) to view my data visualization.
 
-Key Features & Visualization
-
-Design Principles: TBD
-
-Sketching: TBD
-
-Key Feature: User-Driven
-
-Calculated Fields
+The key focus of my project is center the data visualization around user engagement. The maps and charts respond, due to the use of calculated fields, to the user's choice in parameter dropdown and a filter ranges.
 
 ### This concludes my project. I appreciate any suggestions to further improve. 
-
 
 # *“Afoot and lighthearted I take to the open road, healthy, free, the world before me.” –Walt Whitman*
 
