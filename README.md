@@ -50,6 +50,7 @@ When cleaning the datasets, I eliminated columns of data unnecessary to my proje
  
  ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors4.jpeg)
  
+ Lesson Learned: During the data cleaning process, I discovered that the fishing data source was not representative of the entire country, and have so removed it from the data to be used in the visualization.
 
 ## SQL
 
