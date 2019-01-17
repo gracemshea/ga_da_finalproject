@@ -65,42 +65,16 @@ Ultimately, I found that having the information embedded in the code, using the 
 
 ### SQL Commands & Operators
 
-A wide variety of SQL statements were utilized throughout this project. Click each command or operator to navigate to an example.
+A wide variety of SQL statements were utilized throughout this project. Click each command or operator to navigate to an example of the most used commands.
 
-* [ALTER TABLE]() allows you to add columns to a table in the database.
-* [AND]() combines two conditions.
-* [AS]() establishes an alias for a value, essentially renaming it.
-* [AVG()]() finds the average value for a column. This is an aggregate function.
-* [BETWEEN]() restricts the output to a specific range.
-* [CASE]() allows to narrow the SELECT to conditional IF/THEN logic.
 * [COUNT()](https://github.com/gracemshea/ga_da_finalproject/blob/master/sqlfiles/commands/createjoin.sql) provides a count of rows where the value is not NULL.
 * [CREATE TABLE](https://github.com/gracemshea/ga_da_finalproject/blob/master/sqlfiles/commands/createjoin.sql) establishes a new table within a schema.
-* [DELETE]() removes rows from a table.
 * [FULL JOIN](https://github.com/gracemshea/ga_da_finalproject/blob/master/sqlfiles/commands/createjoin.sql) returns all records when there is a match in either left or right tables.
 * [GROUP BY](https://github.com/gracemshea/ga_da_finalproject/blob/master/sqlfiles/commands/createjoin.sql) arranges returned data within aggregate functions into groups.
-* [HAVING]() operates like "WHERE" within aggregate functions.
-* [INNER JOIN]() combines rows from different tables where the join condition is true.
 * [INSERT](https://github.com/gracemshea/ga_da_finalproject/blob/master/sqlfiles/commands/createjoin.sql) adds new rows to a table.
-* [IS NULL]()/[IS NOT NULL]() operates like "WHERE", to filter for empty cells.
-* [LEFT JOIN]() returns all records from the left table and the matched records from the right table.
-* [LIKE]() used in a WHERE clause to search for a specified pattern in a column.
-* [LIMIT]() limits the number of records.
-* [MAX()]() returns the largest value of the selected column.
-* [MIN()]() returns the smallest value of the selected column.
-* [OR]() displays a record if any of the conditions provided are met.
 * [ORDER BY](https://github.com/gracemshea/ga_da_finalproject/blob/master/sqlfiles/commands/createjoin.sql) used to sort the results, paired with a column for an ascending (ASC) or descending (DESC) order.
 * [OUTER JOIN](https://github.com/gracemshea/ga_da_finalproject/blob/master/sqlfiles/commands/createjoin.sql) returns unmatched rows in one or both tables.
-* [RIGHT JOIN]() returns all records from the right table and the matched records from the left table.
-* [ROUND()]() returns a numeric value to a specific length. 
-* [SELECT]() identifies data to query from a database.
-* [SELECT DISTINCT]() returns distinct values only. In other words, it filters out duplicates.
-* [SUBQUERY]() allows one to nest a query inside another query.
-* [SUM()]() returns the total sum of a numeric column.
-* [UNION]() combines the results of two or more SELECT statements. It removes duplicate rows.
-* [UNION ALL]() combines the results of two or more SELECT statements. It keeps duplicate rows.
-* [UPDATE]() modifies records in a database.
-* [WHERE]() returns records that meet a specified condition.
-* [WITH]() allows for the storing of a query result in a temporary table using an alias.
+
 
  ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors6.jpg)
 
