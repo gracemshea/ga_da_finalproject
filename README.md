@@ -82,7 +82,22 @@ A wide variety of SQL statements were utilized throughout this project. Click ea
 
 Please visit Tablea Public [here](https://public.tableau.com/profile/grace.shea#!/vizhome/OutdoorsMap/Dashboard1?publish=yes) to view my data visualization.
 
-The key focus of my project is center the data visualization around user engagement. The maps and charts respond, due to the use of calculated fields, to the user's choice in parameter dropdown and a filter ranges.
+The key focus of my project is center the data visualization around user engagement. The maps and charts respond, due to the use of calculated fields, to the user's choice in parameter dropdown and a filter ranges. 
+
+Users can narrow the following aspects of the data to narrow down and rank the states:
+
++ Average Temperature
++ Average Precipitation
++ Priority Level of Recreational Activities from "Very Important", "Somewhat Important", and "Not Important" of the following:
+  + Biking
+  + Camping
+  + Climbing
+  + Skiing
+  
+Users can narrow the following aspects of the data to narrow down and explore the cities:
+
++ Median Home Value
++ Population
 
 ### This concludes my project. I appreciate any suggestions to further improve. 
 
