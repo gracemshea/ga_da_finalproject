@@ -46,7 +46,7 @@ When cleaning the datasets, I eliminated columns of data unnecessary to my proje
  
  #### Index & Match
 
-+ TBD
++ Example 1: This Index & Match allows for the exploration of population, by typing in the city and state. See [here](https://github.com/gracemshea/ga_da_finalproject/blob/master/datafiles/Data%20Cleaning%20Index%20%26%20Match.xlsx).
  
  ![alt text](https://github.com/gracemshea/ga_da_finalproject/blob/master/imagefiles/outdoors4.jpeg)
  
